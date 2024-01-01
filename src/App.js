@@ -3,7 +3,7 @@ import BitcoinChart from "./components/BitcoinChart";
 
 const App = () => {
   return (
-    <div>
+    <div className="h95vh">
       <BitcoinChart />
     </div>
   );
